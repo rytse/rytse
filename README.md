@@ -1,7 +1,5 @@
 ### interested in running faster 🚀
 
-[![Top Langs](https://github-readme-stats-theta-five.vercel.app/api/top-langs/?username=rytse)](https://github.com/rytse/github-readme-stats)
-
 <!--
 **rytse/rytse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

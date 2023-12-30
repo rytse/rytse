@@ -1,5 +1,7 @@
 ### interested in running faster 🚀
 
+[![Ryan's GitHub stats](https://github-readme-stats-mjg4zaghj-rytses-projects.vercel.app/api?username=anuraghazra)](https://github.com/rytse/github-readme-stats)
+
 <!--
 **rytse/rytse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
